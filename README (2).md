@@ -28,5 +28,15 @@ The model will be developed using a supervised machine learning approach, where 
 
 **Expected Outcomes:**
 
-The project aims to provide a robust and accurate sales forecasting model that can assist Walmart in optimizing its inventory management, supply chain planning, and marketing strategies. By leveraging the insights derived from the model, Walmart can better anticipate customer demand and make informed decisions to maximize sales and profitability.
+The project aims to provide a robust and accurate sales forecasting model. By leveraging the insights derived from the model, Walmart can better anticipate customer demand and make informed decisions to maximize sales and profitability.
 
+**Conclusion**
+
+![Screenshot 2024-03-03 at 19-16-04 SALES_PREDICTION-Copy1 - Jupyter Notebook](https://github.com/danielayikugeorge/WALMART-SALES-FORECASTING/assets/159738648/43ae58cc-2ead-4c34-91df-2132c53f1057)
+
+ 
+Overall, the Random Forest model seems to perform the best among the evaluated algorithms,
+as it has the highest Test_R2  value of 0.94160,
+indicating a strong correlation between the predicted and actual values in the test dataset.
+Additionally, it also has the lowest Test_RMSE and Test_MSE values, suggesting that it has the smallest error in
+predicting the sales.
